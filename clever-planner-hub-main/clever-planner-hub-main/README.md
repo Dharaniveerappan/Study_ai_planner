@@ -1,5 +1,4 @@
-# Welcome to your Lovable project
-
+# Welcome to your Study_ai_planner
 ## Project info
 
 **URL**: https://lovable.dev/projects/94f03772-81a9-4f26-b905-2d00eabe54da
