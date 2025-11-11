@@ -1,7 +1,7 @@
 # Welcome to your Study_ai_planner
 ## Project info
 
-**URL**: https://lovable.dev/projects/94f03772-81a9-4f26-b905-2d00eabe54da
+**URL**: https://github.com/Dharaniveerappan/Study_ai_planner/blob/main/clever-planner-hub-main/clever-planner-hub-main/README.md
 
 ## How can I edit this code?
 
